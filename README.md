@@ -7,6 +7,8 @@
 
 *Vázquez Martínez Edgar Isaías*
 
+**Enlace del video** --> https://drive.google.com/file/d/1QppeVlnV7Sy-9CioHsGGmh9rccl4Hq80/view?usp=sharing
+
 ## IMPORTANTE
 Antes de comenzar debemos tener descargadas las imagenes de Mariadb y Phpmyadmin, se pueden conseguir directamente desde los siguientes enlaces.
 
