@@ -1,4 +1,11 @@
 # PROYECTO TOLERANTE A FALLAS (DOCKER)
+**Integrantes:** 
+
+*Dueñas Becerra Mario Alejandro*
+
+*Hernández Huizar Jhonatan Adrián*
+
+*Vázquez Martínez Edgar Isaías*
 
 ## IMPORTANTE
 Antes de comenzar debemos tener descargadas las imagenes de Mariadb y Phpmyadmin, se pueden conseguir directamente desde los siguientes enlaces.
